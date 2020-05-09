@@ -9,13 +9,13 @@ Check out Advik <a href="https://www.adviksoft.com/pst/converter.html" target="_
 Download link: https://www.adviksoft.com/dl/advik-outlook-pst-converter.exe
 
 <h2>Steps to Extract attachments from Outlook are as follows;</h2>
-</li>Step 1. Run Advik PST Converter in your system.</li>
+<li>Step 1. Run Advik PST Converter in your system.</li>
 <li>Step 2. Add PST file in software panel.</li>
 <li>Step 3. Chose folder for extract attachments from.</li>
 <li>Step 4. Choose DOC as saving option from the list.</li>
 <li>Step 5. Click Convert and analyse the process.</li>
-<br>
+<br><br>
 Done! The program will extract all attachments from Outlook in no time.
-<br>
+<br><br>
 <b>Summary</b>
 Till now we had discces how to extract attachments from Outlook. As you all know there is no official method is available. Thus, I would like to recommend choosing the above method.
